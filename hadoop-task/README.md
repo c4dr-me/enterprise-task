@@ -76,9 +76,8 @@ Jps
 
 ### Screenshot 
 
-```md
-![Hadoop daemons running with jps](doc/screenshots/01-jps-hadoop-services.png)
-```
+![Hadoop daemons running with jps](../doc/screenshots/01-jps-hadoop-services.png)
+
 
 ---
 
@@ -124,10 +123,8 @@ wc -l: 7366 lines
 wc -w: 43251 words
 ```
 
+![PDF converted to readable text](../doc/screenshots/02-pdf-to-text.png)
 
-```md
-![PDF converted to readable text](doc/screenshots/02-pdf-to-text.png)
-```
 
 ---
 
@@ -162,9 +159,7 @@ Observed file:
 
 ### Screenshot
 
-```md
-![Book uploaded to HDFS](doc/screenshots/03-hdfs-input-book.png)
-```
+![Book uploaded to HDFS](../doc/screenshots/03-hdfs-input-book.png)
 
 ---
 
@@ -235,13 +230,10 @@ The built-in result contained:
 
 ### Screenshot
 
-```md
-![Built-in WordCount succeeded in YARN](doc/screenshots/04-yarn-builtin-wordcount-success.png)
-```
 
-```md
-![Built-in WordCount top tokens](doc/screenshots/REPLACE-05-builtin-wordcount-top20.png)
-```
+![Built-in WordCount succeeded in YARN](../doc/screenshots/04-yarn-builtin-wordcount-success.png)
+
+![Built-in WordCount top tokens](../doc/screenshots/REPLACE-05-builtin-wordcount-top20.png)
 
 ---
 
@@ -401,13 +393,10 @@ The custom output contains fewer distinct keys because punctuation variants are 
 
 ### Screenshot 
 
-```md
-![Custom Java WordCount succeeded](doc/screenshots/06-yarn-custom-wordcount-success.png)
-```
+![Custom Java WordCount succeeded](../doc/screenshots/06-yarn-custom-wordcount-success.png)
 
-```md
-![Custom WordCount output](doc/screenshots/07-custom-wordcount-top20.png)
-```
+
+![Custom WordCount output](../doc/screenshots/07-custom-wordcount-top20.png)
 
 ---
 
@@ -451,9 +440,7 @@ Execution time=37.997 seconds
 
 ### Screenshot 
 
-```md
-![Default timing run](doc/screenshots/08-timing-default.png)
-```
+![Default timing run](../doc/screenshots/08-timing-default.png)
 
 
 ---
@@ -527,9 +514,7 @@ For this small ~242 KB input file, smaller splits made the job slower. The reaso
 
 ### Screenshot
 
-```md
-![64 KiB split timing](doc/screenshots/09-timing-64kb.png)
-```
+![64 KiB split timing](../doc/screenshots/09-timing-64kb.png)
 
 ---
 
@@ -570,9 +555,7 @@ Directories show `-` because HDFS replication applies to **file data blocks**, n
 
 ### Screenshot 
 
-```md
-![HDFS replication and directories](doc/screenshots/03-hdfs-input-book.png)
-```
+![HDFS replication and directories](../doc/screenshots/03-hdfs-input-book.png)
 
 ---
 
@@ -596,9 +579,7 @@ Use this UI to inspect HDFS health, NameNode status, and live DataNodes.
 
 ### Screenshot 
 
-```md
-![HDFS NameNode overview](doc/screenshots/10-namenode-overview.png)
-```
+![HDFS NameNode overview](../doc/screenshots/10-namenode-overview.png)
 
 ---
 
