@@ -233,7 +233,7 @@ The built-in result contained:
 
 ![Built-in WordCount succeeded in YARN](../doc/screenshots/04-yarn-builtin-wordcount-success.png)
 
-![Built-in WordCount top tokens](../doc/screenshots/REPLACE-05-builtin-wordcount-top20.png)
+![Built-in WordCount top tokens](../doc/screenshots/05-builtin-wordcount-top20.png)
 
 ---
 
